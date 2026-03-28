@@ -31,4 +31,7 @@ Proyecto Java Web MVC tradicional con CRUD de productos.
 
 ## Capturas
 
-Agregar evidencias en `capturas/`.
+![Crud](capturas/crud.png)
+![Edit](capturas/edit.png)
+![Eliminar producto](capturas/eliminar.png)
+![Nuevo producto](capturas/new.png)
